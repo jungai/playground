@@ -1,0 +1,13 @@
+{
+  "name": "playground-typescript",
+  "version": "0.1.0",
+  "description": "playground",
+  "license": "MIT",
+	"scripts": {
+		"dev": "vite"
+	},
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "vite": "^2.1.5"
+  }
+}
